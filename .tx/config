@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[user-switching.user-switching]
+file_filter = languages/theme_info-<lang>.po
+source_file = languages/theme_info.pot
+source_lang = en_US
+type = PO
