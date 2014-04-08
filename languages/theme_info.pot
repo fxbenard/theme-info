@@ -1,0 +1,177 @@
+# Copyright (C) 2014 Theme Info
+# This file is distributed under the same license as the Theme Info package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Info 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/theme-info\n"
+"POT-Creation-Date: 2014-04-08 07:27:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: theme-info.php:107
+msgid "%s ago"
+msgstr ""
+
+#: theme-info.php:254
+msgid "Download"
+msgstr ""
+
+#: theme-info.php:255
+msgid "Visit theme homepage"
+msgstr ""
+
+#: theme-info.php:256
+msgid "Donate"
+msgstr ""
+
+#: theme-info.php:299
+msgid "[ hide ]"
+msgstr ""
+
+#: theme-info.php:299 theme-info.php:423
+msgid "[ show ]"
+msgstr ""
+
+#: theme-info.php:362
+msgid "Theme slug:"
+msgstr ""
+
+#: theme-info.php:364
+msgid ""
+"To display information about a theme, you should use one of the shortcodes "
+"below."
+msgstr ""
+
+#: theme-info.php:366
+msgid "Plain info:"
+msgstr ""
+
+#: theme-info.php:369
+msgid "Author&rsquo;s name"
+msgstr ""
+
+#: theme-info.php:371
+msgid "Author&rsquo;s URL"
+msgstr ""
+
+#: theme-info.php:373
+msgid "URL of ZIP file"
+msgstr ""
+
+#: theme-info.php:375
+msgid "Download count"
+msgstr ""
+
+#: theme-info.php:377
+msgid "URL of homepage"
+msgstr ""
+
+#: theme-info.php:379
+msgid "URL of donations page"
+msgstr ""
+
+#: theme-info.php:381
+msgid "URL of wp.org page"
+msgstr ""
+
+#: theme-info.php:383
+msgid "Name"
+msgstr ""
+
+#: theme-info.php:385
+msgid "URL of author&rsquo;s wp.org profile"
+msgstr ""
+
+#: theme-info.php:387
+msgid "Rating out of 5"
+msgstr ""
+
+#: theme-info.php:389
+msgid "Slug"
+msgstr ""
+
+#: theme-info.php:391
+msgid "List of tags"
+msgstr ""
+
+#: theme-info.php:393
+msgid "Last updated ago (hours/days/weeks)"
+msgstr ""
+
+#: theme-info.php:395
+msgid "Last updated date"
+msgstr ""
+
+#: theme-info.php:397
+msgid "Version number"
+msgstr ""
+
+#: theme-info.php:399
+msgid "Formatted info:"
+msgstr ""
+
+#: theme-info.php:402
+msgid "Link to author&rsquo;s homepage"
+msgstr ""
+
+#: theme-info.php:404
+msgid "List of contributors"
+msgstr ""
+
+#: theme-info.php:406
+msgid "Long description"
+msgstr ""
+
+#: theme-info.php:408
+msgid "Link to ZIP file"
+msgstr ""
+
+#: theme-info.php:410
+msgid "Link to homepage"
+msgstr ""
+
+#: theme-info.php:412
+msgid "Link to donations page"
+msgstr ""
+
+#: theme-info.php:414
+msgid "Link to wp.org page"
+msgstr ""
+
+#: theme-info.php:416
+msgid "Link to author&rsquo;s wp.org profile"
+msgstr ""
+
+#: theme-info.php:418
+msgid "Latest changelog entry"
+msgstr ""
+
+#: theme-info.php:420
+msgid "Other notes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Theme Info"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://lud.icro.us/wordpress-theme-info/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Provides a simple way of displaying up-to-date information about specific "
+"WordPress Theme Directory hosted themes in your blog posts and pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "John Blackbourn"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://johnblackbourn.com/"
+msgstr ""
