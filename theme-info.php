@@ -251,9 +251,9 @@ class ThemeInfo {
 		if ( false !== strpos( $this->meta[$key][$att], '%s' ) ) {
 
 			$texts = array(
-				'download' => __( 'Download', 'theme-info' ),
-				'homepage' => __( 'Visit theme homepage', 'theme-info' ),
-				'donate'   => __( 'Donate', 'theme-info' ),
+				'download' => __( 'Download', 'theme_info' ),
+				'homepage' => __( 'Visit theme homepage', 'theme_info' ),
+				'donate'   => __( 'Donate', 'theme_info' ),
 				'link'     => $this->meta[$key]['name'],
 				'profile'  => $this->meta[$key]['author_name']
 			);
