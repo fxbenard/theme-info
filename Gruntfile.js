@@ -36,7 +36,7 @@ grunt.initConfig({
         command: 'npm update'
       },
       update_po: { // Pull Transifex translation - grunt exec:update_po
-        cmd: 'tx pull -a --minimum-perc=100' // Change the percentage as you wish
+        cmd: 'tx pull -a' // Change the percentage by adding by e.g --minimum-perc=100
       },
       tx_push_s: { // Push pot to Transifex - grunt exec:tx_push_s
         cmd: 'tx push -s'
@@ -59,7 +59,7 @@ grunt.registerTask( 'default', 'exec:npmUpdate' );
 grunt.registerTask( 'Makepot', 'makepot' );
 
 // Makepot and push it on Transifex task(s).
-grunt.registerTask( 'MakandPush', [ 'makepot', 'tx_push_s' ] );
+grunt.registerTask( 'MakandPush', [ 'makepot', 'exec:tx_push_s' ] );
 
 // Pull from Transifex and create .mo task(s).
 grunt.registerTask( 'tx', [ 'exec:update_po', 'po2mo' ] );
