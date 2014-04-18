@@ -37,7 +37,7 @@ grunt.initConfig({
       },
       update_po: { // Pull Transifex translation - grunt exec:update_po
         cmd: 'tx pull -a --minimum-perc=100' // Change the percentage as you wish
-      }
+      },
       tx_push_s: { // Push pot to Transifex - grunt exec:tx_push_s
         cmd: 'tx push -s'
       },
